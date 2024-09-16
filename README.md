@@ -1,4 +1,4 @@
-<img src="https://github.com/RobsRoby/facetap/blob/main/lib/logo.png" alt="logo" width="300">
+<img src="https://github.com/RobsRoby/facetap/blob/main/lib/logo.png" alt="logo" width="200">
 
 **A Mobile Application for Attendance Tracking**
 
