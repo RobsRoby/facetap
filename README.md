@@ -1,6 +1,5 @@
-<img src="https://github.com/RobsRoby/facetap/blob/main/lib/logo.png" alt="logo" width="100">
+<img src="https://github.com/RobsRoby/facetap/blob/main/lib/logo.png" alt="logo" width="300">
 
-# FaceTap
 **A Mobile Application for Attendance Tracking**
 
 ## Overview
